@@ -36,12 +36,16 @@
 
 /* Prevent scroll on narrow devices */
 html,
-body { 
-   
- background-image:    url("SRkdurVYQFSFkMyHVwSu_spinnenweb-9536.jpg");
-    background-size:     cover;                     
-    background-repeat:   no-repeat;
-    background-position: center center;           
+body {.theme-base-0b .sidebar,
+.theme-base-0b .sidebar-toggle:active,
+.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #90a959;
+}
+.theme-base-0b .container a,
+.theme-base-0b .sidebar-toggle,
+.theme-base-0b .related-posts li a:hover {
+  color: #90a959;
+}          
   overflow-x: hidden;
 }
 
