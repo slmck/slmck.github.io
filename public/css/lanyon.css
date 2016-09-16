@@ -37,7 +37,7 @@
 /* Prevent scroll on narrow devices */
 html,
 body {body 
-    background-image:    url="https://unsplash.com/photos/ixHfyjA49M8";
+    background-image:    url("https://unsplash.com/photos/ixHfyjA49M8");
     background-size:     cover;                     
     background-repeat:   no-repeat;
     background-position: center center;           
@@ -99,6 +99,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
+    
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
