@@ -36,7 +36,12 @@
 
 /* Prevent scroll on narrow devices */
 html,
-body {
+body {body {
+    background-image:    url="https://unsplash.com/photos/ixHfyjA49M8";
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;           
+}
   overflow-x: hidden;
 }
 
