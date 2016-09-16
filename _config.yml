@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://slmck.github.io
+title: archaeosmckinney
+tagline: Archaeology dude!
+description: My awesome new site
+paginate: 5
