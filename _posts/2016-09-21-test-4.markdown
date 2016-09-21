@@ -1,0 +1,8 @@
+---
+published: true
+title: Test 4
+layout: post
+tags: [Anth485, Arch, Introductions]
+categories: [Anth484, ArchaeologyIntroductions]
+---
+Test 4
