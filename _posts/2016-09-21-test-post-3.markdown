@@ -2,6 +2,6 @@
 published: true
 title: Test Post 3
 layout: post
-categories: [Archaeological, Introductions]
+categories: [ArchaeologicalIntroductions]
 ---
 Test Post 3
