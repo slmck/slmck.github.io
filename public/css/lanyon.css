@@ -36,16 +36,7 @@
 
 /* Prevent scroll on narrow devices */
 html,
-body {.theme-base-0b .sidebar,
-.theme-base-0b .sidebar-toggle:active,
-.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #90a959;
-}
-.theme-base-0b .container a,
-.theme-base-0b .sidebar-toggle,
-.theme-base-0b .related-posts li a:hover {
-  color: #0b3808;
-}          
+body {     
   overflow-x: hidden;
 }
 
@@ -149,7 +140,17 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 /* Style and "hide" the sidebar */
-.sidebar {
+.sidebar {.theme-base-0b .sidebar,
+.theme-base-0b .sidebar-toggle:active,
+.theme-base-0b #sidebar-checkbox:checked ~ .sidebar-toggle 
+  background-color: #90a959;
+
+.theme-base-0b .container a,
+.theme-base-0b .sidebar-toggle,
+.theme-base-0b .related-posts li a:hover 
+  color: #0b3808;
+   
+
   position: fixed;
   top: 0;
   bottom: 0;
@@ -198,6 +199,13 @@ a.sidebar-nav-item:focus {
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+
+
+ 
+
+
+
+
 
 @media (min-width: 48rem) {
   .sidebar-item {
