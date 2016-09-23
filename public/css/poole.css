@@ -52,14 +52,7 @@ body { .theme-base-0b .sidebar,
 .theme-base-0b .related-posts li a:hover {
   color: #90a959;
 }
-{
-    background-image:    url("https://unsplash.com/photos/ixHfyjA49M8");
-    background-size:     cover;                     
-    background-repeat:   no-repeat;
-background-position: center center; 
-  margin: 0;
-  padding: 0;
-}
+
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
