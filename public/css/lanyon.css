@@ -40,7 +40,16 @@ body {
   overflow-x: hidden;
 }
 
-html {
+html {.theme-base-0f .sidebar,
+.theme-base-0f .sidebar-toggle:active,
+.theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #8f5536;
+}
+.theme-base-0f .container a,
+.theme-base-0f .sidebar-toggle,
+.theme-base-0f .related-posts li a:hover {
+  color: #8f5536;
+}
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
 
