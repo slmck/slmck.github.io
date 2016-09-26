@@ -36,7 +36,7 @@
 
 /* Prevent scroll on narrow devices */
 html,
-body {  
+body {color:#d5eed3;
   overflow-x: hidden;
 }
 
