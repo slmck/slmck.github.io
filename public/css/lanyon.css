@@ -36,7 +36,7 @@
 
 /* Prevent scroll on narrow devices */
 html,
-body {color:#d5eed3;
+body {
   overflow-x: hidden;
 }
 
@@ -324,7 +324,7 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: ##131313;
 }
 
 /* Related posts */
@@ -345,7 +345,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #415840;
   text-decoration: none;
 }
 .related-posts li a:hover small {
