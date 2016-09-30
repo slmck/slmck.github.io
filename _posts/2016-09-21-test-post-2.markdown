@@ -1,7 +1,0 @@
----
-published: true
-title: Test Post 2
-layout: post
-categories: [Anth485]
----
-Test Post 2
