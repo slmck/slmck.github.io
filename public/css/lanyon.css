@@ -221,6 +221,7 @@ a.sidebar-nav-item:focus {
   width: 2.2rem;
   padding: .5rem .65rem;
   color: #022000;
+  background-color: #fff;
   background-image: url("https://pixabay.com/get/ea35b80629f71c22d2524518a33219c8b66ae3d11eb4134097f9c17d/trowel-309913_1280.png") 
   border-radius: 4px;
   cursor: pointer;
