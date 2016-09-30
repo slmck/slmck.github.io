@@ -1,8 +1,0 @@
----
-published: true
-title: Test 6
-layout: post
-tags: [Archaeological, Introduction]
-categories: [ArchaeologicalIntroductions]
----
-Test 6
