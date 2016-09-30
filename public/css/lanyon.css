@@ -209,11 +209,12 @@ a.sidebar-nav-item:focus {
 
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
-  display:https://pixabay.com/get/ea35b80629f71c22d2524518a33219c8b66ae3d11eb4134097f9c17d/trowel-309913_1280.png ;
+  display:none;
 }
 
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
+  background-image: url("https://pixabay.com/get/ea35b80629f71c22d2524518a33219c8b66ae3d11eb4134097f9c17d/trowel-309913_1280.png") 
   position: absolute;
   top:  1rem;
   left: 1rem;
