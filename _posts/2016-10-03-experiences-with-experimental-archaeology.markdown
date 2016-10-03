@@ -18,8 +18,8 @@ Experimental archaeology is a fantastic method of learning about the creation an
 	Before we could begin hitting rocks together we had to do research. Paleolithic stone lamps, dating to 40,000 years old, have been found in Northern Spain and France. Interestingly, the lamps are primarily found in locations with access to sunlight, such as open air or rock shelter sites, rather than dark, deep caves as we might have expected. Most importantly however our research determined what type of lamp we needed to make. This was a limestone lamp with a lichen wick and cow fat as fuel. 
 <br>
 
-![](images/IMG_7202.jpg)
-<center> <img src="/images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"/></center>
+
+<center> <img src="images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"></center>
  <center> The stones prior to pecking </center>
  <br>
  <br>
@@ -42,14 +42,14 @@ Experimental archaeology is a fantastic method of learning about the creation an
 	After finally producing the lamps, our next step was to use them. Unfortunately no matter how hard we tried we were unable to make the lichen work as a wick. Thankfully we were prepared for this and had purchased, not-so-genuine or Paleolithic approved wicks from the craft store Michaels. During this process we learned the importance of the shape of the lamp. A lamp that had too steep an edge would create a dim light, as the flame would not receive enough oxygen. As well it was important to either tilt the bowl or have some method of drainage for the fat, as without this the wick would essentially be drowned.  
 <br>
 <p> <center> <img src="images/LampinLight.png" alt=Photo of Limestone lamp width="459" height="612"></center> <p>
- <center> The stones prior to pecking </center>
+ 
  <br>
  <br>
 	
 	We eventually managed to have the lamp lit for over 50 continuous minutes. During this process we also realized the difficulties associated with moving the lamp and refueling it. The lamp needed frequent attention and the addition of more fuel. If these lamps were to be carried into a cave it would be difficult to maneuver without disrupting the flame.  As well it would be necessary to carry the extra fuel into the cave. 
 <br>
 <p> <center> <img src="images/Lamp-DarkFlame.png" alt=Photo of Limestone lamp in the dark width="459" height="612"></center> <p>
- <center> The stones prior to pecking </center>
+
  <br>
  <br>
 	While this project was certainly a very simple example of an experimental archaeological approach to research, I found it forced me to think about artifacts in a different way. Experimental archaeology is important as it examines how people may have used what we find in meaningful and practical ways. In creating and attempting to use objects, it provides archaeologists with firsthand experience and evidence of the challenges and possible solutions associated with the use of artifacts. In many ways it can help identify the why of an object or building and further questions to research!
