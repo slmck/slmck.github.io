@@ -19,7 +19,7 @@ Experimental archaeology is a fantastic method of learning about the creation an
 <br>
 
 ![](images/IMG_7202.jpg)
-<center> <img src="images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"/></center>
+<center> <img src="/images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"/></center>
  <center> The stones prior to pecking </center>
  <br>
  <br>
