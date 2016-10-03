@@ -26,7 +26,7 @@ Experimental archaeology is a fantastic method of learning about the creation an
 
 	The second stage of completing our archaeological experiment was to obtain the materials. This proved a slight challenge and I can only imagine that this would be quite an endeavor in larger scale projects. For our project it required phoning multiple quarries and driving to the small town of Duncan, BC, at six in the morning before class to collect limestone rocks. Thankfully we had a few things on our side; a kind company who gave us the stones for free and a lot of Tim Horton’s donuts.  For the rest of the materials we enlisted my family. My grandparents picked up some local lichen on a hike and my mother saved the fat from a few family roasts.  Family has always been and remains a student’s best resource. Thanks Mom! Again this stage would differ drastically depending on what your project required and how large a project it was. 
 <br>
-<p> <center> <img src="images/GracePecking.png" alt="Photo of Grace Wicken" width="459" height="612"> <img src="/images/Pecking.png" alt="Photo of Grace Wicken" width="459" height="612"></center> <p>
+<p> <center> <img src="/images/GracePecking.png" alt="Photo of Grace Wicken" width="459" height="612"> <img src="/images/Pecking.png" alt="Photo of Grace Wicken" width="459" height="612"></center> <p>
  <center> This is my partner Grace pecking away in the parkade locker </center>
  <br>
  <br>
@@ -41,7 +41,7 @@ Experimental archaeology is a fantastic method of learning about the creation an
 
 	After finally producing the lamps, our next step was to use them. Unfortunately no matter how hard we tried we were unable to make the lichen work as a wick. Thankfully we were prepared for this and had purchased, not-so-genuine or Paleolithic approved wicks from the craft store Michaels. During this process we learned the importance of the shape of the lamp. A lamp that had too steep an edge would create a dim light, as the flame would not receive enough oxygen. As well it was important to either tilt the bowl or have some method of drainage for the fat, as without this the wick would essentially be drowned.  
 <br>
-<p> <center> <img src="/images/LampinLight.png" alt="Photo of Limestone lamp" width="459" height="612"></center> <p>
+<p> <center> <img src="/images/LampinLight.png" alt="Photo of Limestone lamp" width="459" height="580"></center> <p>
  
  <br>
  <br>
