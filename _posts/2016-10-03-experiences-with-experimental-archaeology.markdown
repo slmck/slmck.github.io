@@ -57,11 +57,11 @@ Experimental archaeology is a fantastic method of learning about the creation an
 <br>
 If you are interested in learning more about experimental archaeology check out the following projects, videos and articles!
 
-<ul> <a href=" https://www.youtube.com/watch?v=Qk2QG9IGge4" >Watch the University College London Expiremental Archaeology Fieldtrip </a> </ul>
+<ul> <a href=" https://www.youtube.com/watch?v=Qk2QG9IGge4" >Watch the University College London Experimental Archaeology Fieldtrip </a> </ul>
 
 <ul> <a href=" https://www.youtube.com/watch?v=2O22LMgS4V4" > Watch the building of a Mesolithic House </a> </ul>
 
-<ul><a href=" http://journal.exarc.net/issues-overview" > An open access journal that features expirmental archaeology </a> </ul>
+<ul><a href=" http://journal.exarc.net/issues-overview" > An Open Access Journal that features Experimental Archaeology </a> </ul>
 <br>
 References:
 <br>
