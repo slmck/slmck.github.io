@@ -17,6 +17,7 @@ Experimental archaeology is a fantastic method of learning about the creation an
 <br>
 	Before we could begin hitting rocks together we had to do research. Paleolithic stone lamps, dating to 40,000 years old, have been found In Northern Spain and France. Interestingly, the lamps are primarily found in locations with access to sunlight, such as open air or rock shelter sites, rather than dark, deep caves as we might have expected. Most importantly however our research determined what type of lamp we needed to make. This was a limestone lamp with a lichen wick and cow fat as fuel. 
 <br>
+![](images/IMG_7202.jpg)
 <p> <center> <img src="images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"></center> <p>
  <center> The stones prior to pecking </center>
  <br>
