@@ -41,7 +41,7 @@ Experimental archaeology is a fantastic method of learning about the creation an
 
 	After finally producing the lamps, our next step was to use them. Unfortunately no matter how hard we tried we were unable to make the lichen work as a wick. Thankfully we were prepared for this and had purchased, not-so-genuine or Paleolithic approved wicks from the craft store Michaels. During this process we learned the importance of the shape of the lamp. A lamp that had too steep an edge would create a dim light, as the flame would not receive enough oxygen. As well it was important to either tilt the bowl or have some method of drainage for the fat, as without this the wick would essentially be drowned.  
 <br>
-<p> <center> <img src="/images/LampinLight.png" alt="Photo of Limestone lamp" width="459" height="580"></center> <p>
+<p> <center> <img src="/images/LampinLight.png" alt="Photo of Limestone lamp" width="459" height="550"></center> <p>
  
  <br>
  <br>
