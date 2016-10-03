@@ -15,8 +15,9 @@ How can archaeologists get into the minds of the people they study? When present
 Experimental archaeology is a fantastic method of learning about the creation and use of objects. For one of my university classes, I was challenged to develop an experimental archaeology project with a partner. Grace Wicken, and I decided to create Paleolithic stone lamps.  From this experience I learned about the lamps but additionally about the act of doing experimental archaeology.  
 <br>
 <br>
-	Before we could begin hitting rocks together we had to do research. Paleolithic stone lamps, dating to 40,000 years old, have been found In Northern Spain and France. Interestingly, the lamps are primarily found in locations with access to sunlight, such as open air or rock shelter sites, rather than dark, deep caves as we might have expected. Most importantly however our research determined what type of lamp we needed to make. This was a limestone lamp with a lichen wick and cow fat as fuel. 
+	Before we could begin hitting rocks together we had to do research. Paleolithic stone lamps, dating to 40,000 years old, have been found in Northern Spain and France. Interestingly, the lamps are primarily found in locations with access to sunlight, such as open air or rock shelter sites, rather than dark, deep caves as we might have expected. Most importantly however our research determined what type of lamp we needed to make. This was a limestone lamp with a lichen wick and cow fat as fuel. 
 <br>
+
 ![](images/IMG_7202.jpg)
 <p> <center> <img src="images/IMG_7202.jpg" alt=Photo of Limestone rocks width="459" height="612"></center> <p>
  <center> The stones prior to pecking </center>
