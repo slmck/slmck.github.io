@@ -1,7 +1,0 @@
----
-published: true
-title: Test Post 3
-layout: post
-categories: [ArchaeologicalIntroductions]
----
-Test Post 3
