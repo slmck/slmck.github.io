@@ -55,20 +55,17 @@ Experimental archaeology is a fantastic method of learning about the creation an
 <br>
 If you are interested in learning more about experimental archaeology check out the following projects, videos and articles!
 
-<ul> <a href=" https://www.youtube.com/watch?v=Qk2QG9IGge4" >The University College London expiremental archaeology fieldtrip video</a> </ul>
+<ul> <a href=" https://www.youtube.com/watch?v=Qk2QG9IGge4" >Watch the University College London Expiremental Archaeology Fieldtrip </a> </ul>
 
 <ul> <a href=" https://www.youtube.com/watch?v=2O22LMgS4V4" > Watch the building of a Mesolithic House </a> </ul>
 
 <ul><a href=" http://journal.exarc.net/issues-overview" > An open access journal that features expirmental archaeology </a> </ul>
 <br>
-<br>
 References:
 <br>
 Paleolithic Lamps:
-
 <ul>de Beaune, S. A. 1987a. Lamps et Godets au Paléolithique. Paris: Centre National de la Recherche Scientifiques.</ul>
 <ul> de Beaune, Sophie A.. 1987b. Palaeolithic Lamps and Their Specialization: A Hypothesis. Current Anthropology 28 (4): 569–7.</ul>
-<br>
 Experimental archaeology:
 <ul>Outram, A. K. 2008 Introduction to experimental archaeology. World Archaeology (40)1: 1-6 </ul>
 
