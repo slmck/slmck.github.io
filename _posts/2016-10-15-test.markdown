@@ -6,3 +6,13 @@ layout: post
 test
 <p data-height="265" data-theme-id="light" data-slug-hash="QKVWrk" data-default-tab="js,result" data-user="slmck" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/slmck/pen/QKVWrk/">My ZingChart</a> by Sierra McKinney (<a href="http://codepen.io/slmck">@slmck</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<html>
+	<head>
+		<script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
+		<script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
+		ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script></head>
+	<body>
+		<div id='myChart'></div>
+	</body>
+</html>
