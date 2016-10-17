@@ -1,6 +1,6 @@
 ---
 published: true
-title: A new series: The Gravettian
+title: A new series:The Gravettian
 layout: post
 tags: [Paleolithic, Gravettian, ]
 ---
