@@ -31,12 +31,20 @@ How ochre appears on the skeleton differs throughout the burials. Researchers be
 <br>
 
 
-<center> <img src="/images/QuadrigramVisual.tiff" alt="Gravettian Ochre Application Chart" width="437" height="547"></center>
+<center> <img src="/images/QuadrigramVisual.png" alt="Gravettian Ochre Application Chart" width="437" height="547"></center>
 
  <br>
  <br>
 
 I used this data to analyze whether the methods of ochre application differed according to geographic region. I completed a GIS survey to determine which methods occurred within 100kms of each other. The answer is not so much. As can be seen in the chart below, most methods of ochre application were found in every region of Europe. If there were specific regional traditions we would expect to see specific methods only found in certain locations.  This result supports the belief that the Gravettian was a pan-European culture with widespread communication. 
+<br>
+<br>
+<p data-height="265" data-theme-id="light" data-slug-hash="YGJXqB" data-default-tab="result" data-user="slmck" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/slmck/pen/YGJXqB/">My ZingChart</a> by Sierra McKinney (<a href="http://codepen.io/slmck">@slmck</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<br>
+It is importat to note that this graph is using modern day boundaries. Many of these sites are closer together than the division might make them appear. However many of the same methods are used across Europe. Unfortunately this is another occasion in which my computer skills have failed me. I hope to rectify this in the future!   
+<br>
+<br>
 
 As you may have noticed two small regional trends were found. The first of these is the inclusion of only ochred objects.  This practice only occurs in northern Italy, however within this region many other methods of ochre application are used. This would suggest that this practice might be a local custom in addition to the mortuary ochre procedures that occur throughout the European Gravettian.
 The second local trend is the inclusion of ochre stained skeletonized human remains in addition to the main burials. This happens in a single site called Sunghir in Russia. This cannot necessarily be interpreted as regional as it does not appear at the very nearby site of Kostenki. What it does do however is raise interesting questions about the meaning of this specific location. The Sunghir site includes one single and one double burial, both of which include elaborate grave goods and date to approximately 26 and 29 thousand years ago. All of these burials are associated with additional ochred human remains. The double burial includes a femur of an adult that has been filled with red ochre  As the bone had been filled with ochre, it is evident that the remains were skeletonized when it was included in the burial.  As we all know it is impossible or at least extremely painful to shove ochre into a bone before it's a skeleton. The single burial was deliberately associated with the cranium of a female placed on an ochred region directly on top of the burial. These additional remains are interpreted as ritual deposits within the graves.
