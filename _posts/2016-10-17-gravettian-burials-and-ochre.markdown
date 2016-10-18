@@ -31,7 +31,7 @@ How ochre appears on the skeleton differs throughout the burials. Researchers be
 <br>
 
 
-<center> <img src="/images/QuadrigramVisual.png" alt="Gravettian Ochre Application Chart" width="437" height="547"></center>
+<center> <img src="/images/QuadrigramVisual.png" alt="Gravettian Ochre Application Chart" width="537" height="447"></center>
 
  <br>
  <br>
@@ -39,7 +39,7 @@ How ochre appears on the skeleton differs throughout the burials. Researchers be
 I used this data to analyze whether the methods of ochre application differed according to geographic region. I completed a GIS survey to determine which methods occurred within 100kms of each other. The answer is not so much. As can be seen in the chart below, most methods of ochre application were found in every region of Europe. If there were specific regional traditions we would expect to see specific methods only found in certain locations.  This result supports the belief that the Gravettian was a pan-European culture with widespread communication. 
 <br>
 <br>
-<p data-height="265" data-theme-id="light" data-slug-hash="YGJXqB" data-default-tab="result" data-user="slmck" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/slmck/pen/YGJXqB/">My ZingChart</a> by Sierra McKinney (<a href="http://codepen.io/slmck">@slmck</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="500" data-theme-id="light" data-slug-hash="YGJXqB" data-default-tab="result" data-user="slmck" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/slmck/pen/YGJXqB/">My ZingChart</a> by Sierra McKinney (<a href="http://codepen.io/slmck">@slmck</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 <br>
 It is importat to note that this graph is using modern day boundaries. Many of these sites are closer together than the division might make them appear. However many of the same methods are used across Europe. Unfortunately this is another occasion in which my computer skills have failed me. I hope to rectify this in the future!   
