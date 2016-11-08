@@ -8,7 +8,7 @@ I live in Victoria, British Columbia, Canada. I moved here for University about 
 <br> 
 <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/slmck.22766db3/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoic2xtY2siLCJhIjoiY2l1dHh5ejhpMDI3bzJubGdqcXZibTYyOSJ9.mFguinUHqhfozm-emjSLaw'></iframe>
 <br>
-A brief legend: <ol> 
+A brief legend: 
 <li>The blue indicates one time sales or events </li>
 <li>The green indicates businesses </li>
 <li> The purple indicate hotels or restraurants </li>
