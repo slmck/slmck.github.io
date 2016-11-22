@@ -10,7 +10,7 @@ The last week we have been discussing the implications and opportunities to use 
 What was great though was in the process I found some really fantastic models and creators from a website called sketchup. They all focus on sharing archaeological artifacts or sites and they do it well! The detail is extraordinary and it provides an opportunity to see things in a whole new way. 
 <br>
 <a href="https://sketchfab.com/britishmuseum">The British Museum </a> post scans of their artifacts and statues. If you can't afford a trip to London this is acts as an excellent substitute.
-<br>
+<br> <br>
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/64d0b7662b59417986e9d693624de97a/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/64d0b7662b59417986e9d693624de97a?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Granite head of Amenemhat III</a>
