@@ -8,6 +8,7 @@ The last week we have been discussing the implications and opportunities to use 
 <br> My scan although it is upsidedown. Flip it and zoom in and hopefully you should see it! 
 <br>
 <iframe id='embed3DViewer'  src='http://www.123dapp.com/fullpreview/embedViewer?assetId=6309882&size=medium' scrolling='no' style='border:none; width: 495px; height: 555px'> </iframe>
+<br>
 What was great though was in the process I found some really fantastic models and creators from a website called sketchup. They all focus on sharing archaeological artifacts or sites and they do it well! The detail is extraordinary and it provides an opportunity to see things in a whole new way. 
 <br>
 <a href="https://sketchfab.com/britishmuseum">The British Museum </a> post scans of their artifacts and statues. If you can't afford a trip to London this is acts as an excellent substitute.
