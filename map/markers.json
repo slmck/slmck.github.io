@@ -1,43 +1,36 @@
 markers = [
    {
      "name": "Lascaux Cave",
-     "url": "https://en.wikipedia.org/wiki/Canada",
      "lat": 45.049167, 
      "lng": 1.176111
    },
  
    {
      "name": "Peche Merle"
-     "url": "https://en.wikipedia.org/wiki/United_States",
      "lat": 44.507429, 
      "lng": 1.644313
    },
    {
      "name": "Grotte de Cussac",
-     "url": "https://en.wikipedia.org/wiki/Ireland",
      "lat": 44.8297,
      "lng": 0.848
    },
    {
      "name": "Chauvet Cave",
-     "url": "https://en.wikipedia.org/wiki/Scotland",
      "lat": 44.387612, 
      "lng": 4.414058
    {
      "name": "Cosquer",
-     "url": "https://en.wikipedia.org/wiki/England",
      "lat": 43.202778, 
      "lng": 5.449167
    },
    {
      "name": "Niaux",
-     "url": "https://en.wikipedia.org/wiki/France",
      "lat": 42.820833, 
      "lng": 1.593611
    },
    {
      "name": "La Marche",
-     "url": "https://en.wikipedia.org/wiki/The_Netherlands",
      "lat": 46.40621, 
      "lng": 0.72463
    },
