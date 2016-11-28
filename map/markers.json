@@ -1,52 +1,46 @@
 markers = [
    {
-     "name": "Canada: ",
+     "name": "Lascaux Cave",
      "url": "https://en.wikipedia.org/wiki/Canada",
-     "lat": 56.130366,
-     "lng": -106.346771
+     "lat": 45.049167, 
+     "lng": 1.176111
    },
  
    {
-     "name": "United States",
+     "name": "Peche Merle,
      "url": "https://en.wikipedia.org/wiki/United_States",
-     "lat": 37.090240,
-     "lng": -95.712891
+     "lat": 44.507429, 
+     "lng": 1.644313
    },
    {
-     "name": "Ireland",
+     "name": "Grotte de Cussac",
      "url": "https://en.wikipedia.org/wiki/Ireland",
-     "lat": 53.412910,
-     "lng": -8.243890
+     "lat": 44.8297,
+     "lng": 0.848
    },
    {
-     "name": "Scotland",
+     "name": "Chauvet Cave",
      "url": "https://en.wikipedia.org/wiki/Scotland",
-     "lat": 56.490671,
-     "lng": -4.202646
-   },
+     "lat": 44.387612, 
+     "lng": 4.414058
    {
-     "name": "England",
+     "name": "Cosquer",
      "url": "https://en.wikipedia.org/wiki/England",
-     "lat": 52.355518,
-     "lng": -1.174320
+     "lat": 43.202778, 
+     "lng": 5.449167
    },
    {
-     "name": "France",
+     "name": "Niaux",
      "url": "https://en.wikipedia.org/wiki/France",
-     "lat": 46.227638,
-     "lng": 2.213749
+     "lat": 42.820833, 
+     "lng": 1.593611
    },
    {
-     "name": "The Netherlands",
+     "name": "La Marche",
      "url": "https://en.wikipedia.org/wiki/The_Netherlands",
-     "lat": 52.132633,
-     "lng": 5.291266
+     "lat": 46.40621, 
+     "lng": 0.72463
    },
-   {
-     "name": "Switzerland",
-     "url": "https://en.wikipedia.org/wiki/Switzerland",
-     "lat": 46.818188,
-     "lng": 8.227512
-   },
+  
   
 ];
