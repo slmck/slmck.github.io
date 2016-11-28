@@ -1,22 +1,11 @@
 markers = [
    {
-     "name": "Canada",
+     "name": "Canada: ",
      "url": "https://en.wikipedia.org/wiki/Canada",
      "lat": 56.130366,
      "lng": -106.346771
    },
-   {
-     "name": "Anguilla",
-     "url": "https://en.wikipedia.org/wiki/Anguilla",
-     "lat": 18.220554,
-     "lng": -63.068615
-   },
-   {
-     "name": "Barbados",
-     "url": "https://en.wikipedia.org/wiki/Barbados",
-     "lat": 13.193887,
-     "lng": -59.543198
-   },
+ 
    {
      "name": "United States",
      "url": "https://en.wikipedia.org/wiki/United_States",
@@ -59,28 +48,5 @@ markers = [
      "lat": 46.818188,
      "lng": 8.227512
    },
-   {
-     "name": "South Africa",
-     "url": "https://en.wikipedia.org/wiki/South_Africa",
-     "lat": -30.559482,
-     "lng": 22.937506
-   },
-   {
-     "name": "Madagascar",
-     "url": "https://en.wikipedia.org/wiki/Madagascar",
-     "lat": -18.766947,
-     "lng": 46.869107
-   },
-   {
-     "name": "Taiwan",
-     "url": "https://en.wikipedia.org/wiki/Taiwan",
-     "lat": 23.697810,
-     "lng": 120.960515
-   },
-   {
-     "name": "Japan",
-     "url": "https://en.wikipedia.org/wiki/Japan",
-     "lat": 36.204824,
-     "lng": 138.252924
-   }
+  
 ];
