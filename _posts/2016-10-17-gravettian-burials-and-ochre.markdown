@@ -1,7 +1,7 @@
 ---
-published: true
+published: false
 title: Gravettian Burials and Ochre
-layout: post
+layout: other
 tags: [Gravettian, Ochre, Burials, Sunghir, Shroud, Blanket, ]
 ---
 This topic has been a major interest of mine and I am very excited to share it here!  The Gravettian is a time period, dating between 28,000 and 21,000 years ago. For more information about the period check out this <a href="https://slmck.github.io/2016/10/17/a-new-series-the-gravettian.html"> infographic </a>.  It during this period that elaborate ritual burials are seen. Many of which, or if your like me, all of which are incredibly interesting. These burials included grave goods, often jewellery, beads, figurines or tools. In some cases the graves were for two or three individuals rather than just one, as we are more familiar with today in Western cultures. Sometimes the graves included mammoth bones as covers or tops to the grave. However the element were focusing on today is ochre.
