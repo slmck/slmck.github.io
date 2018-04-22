@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: The Wonderful World of 3D
 layout: post
 tags: [3dscan, photogrammetry, archaeology, ]
