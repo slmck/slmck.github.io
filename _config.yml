@@ -3,7 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://slmck.github.io
 title: Çatalhöyük School Kit Test Site
-tagline: Developing Pre-Historic Empathy through Chatbot Facilitated Discussion
-description: A Work in Progress
+tagline: A Work in Progress
+description: Developing Pre-Historic Empathy through Chatbot Facilitated Discussion
 paginate: 1
 
