@@ -1,0 +1,11 @@
+---
+layout: page
+title:  Bo the ChatBot (First Version - from Dissertation) 
+---
+<div align="float: left;">
+
+<img src="http://www.catalhoyuk.com/sites/default/files/media/content/Catalhoyuk_building_interior.png" alt="Virtual House Reconstruction" height="376" width="526">
+
+</div>
+
+<link href="https://snatchbot.me/sdk/webchat.css" rel="stylesheet" type="text/css"><script src="https://snatchbot.me/sdk/webchat.min.js"></script><script> Init('?botID=27147&appID=', 600, 600, 'https://dvgpba5hywmpo.cloudfront.net/media/image/15288367070aICMG9WKA', 'bubble', '#00AFF0', 90, 90, 62.99999999999999, '', '0', '#FFFFFF', 1); /* for authentication of its users, you can define your userID (add &userID={login}) */ </script>
